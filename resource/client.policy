@@ -1,0 +1,3 @@
+grant codeBase "file:/Users/wangmark/Documents/workspace/ThreadIO/resource" {
+    permission java.security.AllPermission;
+};
